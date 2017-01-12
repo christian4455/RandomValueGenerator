@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="Controller\RandomValueController.cs" />
     <Compile Include="Controller\IController.cs" />
+    <Compile Include="Model\DatabaseAdapter.cs" />
     <Compile Include="Model\DataModel.cs" />
+    <Compile Include="Model\IDatabaseAdapter.cs" />
     <Compile Include="Model\IModelController.cs" />
     <Compile Include="Model\IModelView.cs" />
     <Compile Include="Model\IObservableInterface.cs" />

@@ -15,3 +15,12 @@ D:\Projekte\RandomValueGenerator\RandomValueGenerator\RandomValueGenerator\obj\D
 D:\Projekte\RandomValueGenerator\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.Properties.Resources.resources
 D:\Projekte\RandomValueGenerator\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.View.ValueView.resources
 D:\Projekte\RandomValueGenerator\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\bin\Debug\RandomValueGenerator.exe.config
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.exe
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.pdb
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\bin\Debug\RandomValueGenerator.exe
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\bin\Debug\RandomValueGenerator.pdb
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.Properties.Resources.resources
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.View.ValueView.resources
+C:\Users\Christian\Desktop\RandomValueGenerator\RandomValueGenerator\obj\Debug\RandomValueGenerator.csproj.GenerateResource.Cache

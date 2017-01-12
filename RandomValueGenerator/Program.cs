@@ -17,7 +17,8 @@ namespace RandomValueGenerator
         [STAThread]
         static void Main()
         {
-            DataModel model = new DataModel();
+            DatabaseAdapter a = new DatabaseAdapter();
+            DataModel model = new DataModel(a);
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

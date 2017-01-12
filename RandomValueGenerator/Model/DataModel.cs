@@ -14,6 +14,13 @@ namespace RandomValueGenerator.Model
 
         private int m_RandomValue;
 
+        private IDatabaseAdapter m_DataBase = null;
+
+        public DataModel(IDatabaseAdapter dataBase)
+        {
+            m_DataBase = dataBase;
+        }
+
         public void registerObserver(IObserverInterface observer)
         {
             m_Observers.Add(observer);
@@ -35,15 +42,15 @@ namespace RandomValueGenerator.Model
         public void RequestGenerateValue()
         {
             Random rnd = new Random();
-
-            m_RandomValue = rnd.Next(0, 1000);
+            
+            m_DataBase.SaveRandomValue(rnd.Next(0, 1000));
 
             notifyObserver();
         }
 
         public int GetRandomValue()
         {
-            return m_RandomValue;
+            return m_DataBase.GetRandomValue();
         }
     }
 }
